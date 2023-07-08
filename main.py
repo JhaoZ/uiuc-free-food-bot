@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv('.env')
 
+# UIUC FREE FOOD TWITTER ID
 id = 1522443992847335425
 
 consumer_key = os.environ["Key"]
